@@ -1,6 +1,6 @@
 # Employee Management Frontend
 
-A React frontend application for the Employee Management System.
+A React frontend application for the Employee Management System. 
 
 ## Technologies
 
