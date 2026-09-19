@@ -25,4 +25,4 @@ This frontend connects to the Spring Boot REST API.
 
 npm install
 
-npm run dev
+npm run dev 
